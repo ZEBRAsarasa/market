@@ -24,7 +24,7 @@ ECサイトに表示するおすすめ形式は年代別、場面別などに合
 
 
 ## チャレンジ一覧要素
-https://docs.google.com/spreadsheets/d/1mtuqjJZOcNbfwBOLdvdupQyXHnf_ZAd2nWDc4Rvw0LA/edit#gid=0
+https://docs.google.com/spreadsheets/d/1pbOBJWunCyodq9EYwdsfTdAUltmZ6X63xQ_XumDHHxU/edit#gid=0
 
 ## 開発環境
 - OS：Linux(CentOS)
